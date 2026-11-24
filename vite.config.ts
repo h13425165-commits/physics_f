@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './physics_f',
+    base: './physics_f/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
