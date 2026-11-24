@@ -1,0 +1,6 @@
+{
+  "name": "ThermoLab — 전자기기 냉각 실험실",
+  "description": "고등학교 2학년 물리학 「열과 에너지」 단원 연계 전자기기 발열 및 냉각 가상 실험실. 열전달, 열저항, 자동 제어 및 방열 시스템 설계 탐구 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
